@@ -36,7 +36,6 @@ Evaluation is handled by the `eval_fn()` function inside the notebook:
 
 ## 🎯 Results & Visualization
 - The model achieves **strong discriminative power** in distinguishing similar/dissimilar pairs
-- Generates **embedding spaces** for visualization with **t-SNE/PCA**
 
 ## 📖 References
 - [Siamese Neural Networks for One-shot Image Recognition (Koch et al.)](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)
